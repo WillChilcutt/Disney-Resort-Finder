@@ -15,8 +15,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BE19D568151174C1009809FC"
                BuildableName = "WillChilcuttMapKitHomework.app"
-               BlueprintName = "WillChilcuttMapKitHomework"
-               ReferencedContainer = "container:WillChilcuttMapKitHomework.xcodeproj">
+               BlueprintName = "MKHomework"
+               ReferencedContainer = "container:MKHomework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,8 +33,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE19D568151174C1009809FC"
             BuildableName = "WillChilcuttMapKitHomework.app"
-            BlueprintName = "WillChilcuttMapKitHomework"
-            ReferencedContainer = "container:WillChilcuttMapKitHomework.xcodeproj">
+            BlueprintName = "MKHomework"
+            ReferencedContainer = "container:MKHomework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,8 +51,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE19D568151174C1009809FC"
             BuildableName = "WillChilcuttMapKitHomework.app"
-            BlueprintName = "WillChilcuttMapKitHomework"
-            ReferencedContainer = "container:WillChilcuttMapKitHomework.xcodeproj">
+            BlueprintName = "MKHomework"
+            ReferencedContainer = "container:MKHomework.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,8 +69,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE19D568151174C1009809FC"
             BuildableName = "WillChilcuttMapKitHomework.app"
-            BlueprintName = "WillChilcuttMapKitHomework"
-            ReferencedContainer = "container:WillChilcuttMapKitHomework.xcodeproj">
+            BlueprintName = "MKHomework"
+            ReferencedContainer = "container:MKHomework.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

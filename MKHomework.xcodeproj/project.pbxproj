@@ -21,14 +21,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BE19D569151174C1009809FC /* WillChilcuttMapKitHomework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WillChilcuttMapKitHomework.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE19D569151174C1009809FC /* MKHomework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MKHomework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE19D56D151174C1009809FC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		BE19D56F151174C1009809FC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BE19D571151174C1009809FC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		BE19D575151174C1009809FC /* WillChilcuttMapKitHomework-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WillChilcuttMapKitHomework-Info.plist"; sourceTree = "<group>"; };
+		BE19D575151174C1009809FC /* MKHomework-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MKHomework-Info.plist"; sourceTree = "<group>"; };
 		BE19D577151174C1009809FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BE19D579151174C1009809FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BE19D57B151174C1009809FC /* WillChilcuttMapKitHomework-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WillChilcuttMapKitHomework-Prefix.pch"; sourceTree = "<group>"; };
+		BE19D57B151174C1009809FC /* MKHomework-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MKHomework-Prefix.pch"; sourceTree = "<group>"; };
 		BE19D57C151174C1009809FC /* WCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WCAppDelegate.h; sourceTree = "<group>"; };
 		BE19D57D151174C1009809FC /* WCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WCAppDelegate.m; sourceTree = "<group>"; };
 		BE19D580151174C1009809FC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		BE19D56A151174C1009809FC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BE19D569151174C1009809FC /* WillChilcuttMapKitHomework.app */,
+				BE19D569151174C1009809FC /* MKHomework.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,10 +103,10 @@
 		BE19D574151174C1009809FC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BE19D575151174C1009809FC /* WillChilcuttMapKitHomework-Info.plist */,
+				BE19D575151174C1009809FC /* MKHomework-Info.plist */,
 				BE19D576151174C1009809FC /* InfoPlist.strings */,
 				BE19D579151174C1009809FC /* main.m */,
-				BE19D57B151174C1009809FC /* WillChilcuttMapKitHomework-Prefix.pch */,
+				BE19D57B151174C1009809FC /* MKHomework-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -114,9 +114,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BE19D568151174C1009809FC /* WillChilcuttMapKitHomework */ = {
+		BE19D568151174C1009809FC /* MKHomework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE19D587151174C1009809FC /* Build configuration list for PBXNativeTarget "WillChilcuttMapKitHomework" */;
+			buildConfigurationList = BE19D587151174C1009809FC /* Build configuration list for PBXNativeTarget "MKHomework" */;
 			buildPhases = (
 				BE19D565151174C1009809FC /* Sources */,
 				BE19D566151174C1009809FC /* Frameworks */,
@@ -126,9 +126,9 @@
 			);
 			dependencies = (
 			);
-			name = WillChilcuttMapKitHomework;
+			name = MKHomework;
 			productName = WillChilcuttMapKitHomework;
-			productReference = BE19D569151174C1009809FC /* WillChilcuttMapKitHomework.app */;
+			productReference = BE19D569151174C1009809FC /* MKHomework.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -140,7 +140,7 @@
 				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = ETSU;
 			};
-			buildConfigurationList = BE19D563151174C1009809FC /* Build configuration list for PBXProject "WillChilcuttMapKitHomework" */;
+			buildConfigurationList = BE19D563151174C1009809FC /* Build configuration list for PBXProject "MKHomework" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -152,7 +152,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BE19D568151174C1009809FC /* WillChilcuttMapKitHomework */,
+				BE19D568151174C1009809FC /* MKHomework */,
 			);
 		};
 /* End PBXProject section */
@@ -252,9 +252,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "WillChilcuttMapKitHomework/WillChilcuttMapKitHomework-Prefix.pch";
-				INFOPLIST_FILE = "WillChilcuttMapKitHomework/WillChilcuttMapKitHomework-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "WillChilcuttMapKitHomework/MKHomework-Prefix.pch";
+				INFOPLIST_FILE = "WillChilcuttMapKitHomework/MKHomework-Info.plist";
+				PRODUCT_NAME = MKHomework;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -263,9 +263,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "WillChilcuttMapKitHomework/WillChilcuttMapKitHomework-Prefix.pch";
-				INFOPLIST_FILE = "WillChilcuttMapKitHomework/WillChilcuttMapKitHomework-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "WillChilcuttMapKitHomework/MKHomework-Prefix.pch";
+				INFOPLIST_FILE = "WillChilcuttMapKitHomework/MKHomework-Info.plist";
+				PRODUCT_NAME = MKHomework;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -273,7 +273,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BE19D563151174C1009809FC /* Build configuration list for PBXProject "WillChilcuttMapKitHomework" */ = {
+		BE19D563151174C1009809FC /* Build configuration list for PBXProject "MKHomework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BE19D585151174C1009809FC /* Debug */,
@@ -282,13 +282,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE19D587151174C1009809FC /* Build configuration list for PBXNativeTarget "WillChilcuttMapKitHomework" */ = {
+		BE19D587151174C1009809FC /* Build configuration list for PBXNativeTarget "MKHomework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BE19D588151174C1009809FC /* Debug */,
 				BE19D589151174C1009809FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

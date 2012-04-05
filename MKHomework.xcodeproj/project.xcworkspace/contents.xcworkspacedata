@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:WillChilcuttMapKitHomework.xcodeproj">
+      location = "self:MKHomework.xcodeproj">
    </FileRef>
 </Workspace>
