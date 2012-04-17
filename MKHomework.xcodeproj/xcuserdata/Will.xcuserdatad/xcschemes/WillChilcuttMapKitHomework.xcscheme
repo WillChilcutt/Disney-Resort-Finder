@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BE19D568151174C1009809FC"
-               BuildableName = "WillChilcuttMapKitHomework.app"
+               BuildableName = "MKHomework.app"
                BlueprintName = "MKHomework"
                ReferencedContainer = "container:MKHomework.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE19D568151174C1009809FC"
-            BuildableName = "WillChilcuttMapKitHomework.app"
+            BuildableName = "MKHomework.app"
             BlueprintName = "MKHomework"
             ReferencedContainer = "container:MKHomework.xcodeproj">
          </BuildableReference>
@@ -50,7 +50,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE19D568151174C1009809FC"
-            BuildableName = "WillChilcuttMapKitHomework.app"
+            BuildableName = "MKHomework.app"
             BlueprintName = "MKHomework"
             ReferencedContainer = "container:MKHomework.xcodeproj">
          </BuildableReference>
@@ -68,7 +68,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE19D568151174C1009809FC"
-            BuildableName = "WillChilcuttMapKitHomework.app"
+            BuildableName = "MKHomework.app"
             BlueprintName = "MKHomework"
             ReferencedContainer = "container:MKHomework.xcodeproj">
          </BuildableReference>

@@ -23,7 +23,7 @@
     _coordinate = newCoordinate;
     _title = newTitle;
     _subtitle = newSubtitle;
-    
+
     return self;
 }
 
